@@ -60,3 +60,4 @@ view: revenue {
     type: count
   }
 }
+explore: revenue {}
