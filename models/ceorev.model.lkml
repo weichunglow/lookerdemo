@@ -14,3 +14,4 @@ datagroup: ceorev_default_datagroup {
 
 persist_with: ceorev_default_datagroup
 
+explore: revenue {}
